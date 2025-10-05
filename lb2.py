@@ -29,6 +29,7 @@ describe_person('Арсений',18)
 describe_person('Андрей')
 '''
 #3
+'''
 def is_prime(number):
     if number==1:
         return False
@@ -41,3 +42,4 @@ for n in {4,7}:
         print(n,'- простое')
     else:
         print(n,'- не простое')
+        '''
